@@ -1,9 +1,9 @@
-package exercicio2;
+package exercicio3;
 
-import exercicio2.model.Animal;
-import exercicio2.model.Cao;
-import exercicio2.model.Gato;
-import exercicio2.model.Homem;
+import exercicio3.model.Animal;
+import exercicio3.model.Cao;
+import exercicio3.model.Gato;
+import exercicio3.model.Homem;
 
 import java.util.Scanner;
 

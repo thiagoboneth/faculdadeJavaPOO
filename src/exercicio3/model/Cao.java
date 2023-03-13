@@ -1,4 +1,4 @@
-package exercicio2.model;
+package exercicio3.model;
 
 public class Cao extends Animal {
     @Override
