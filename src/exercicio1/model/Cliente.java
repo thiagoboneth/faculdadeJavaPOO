@@ -1,4 +1,4 @@
-package model;
+package exercicio1.model;
 
 public class Cliente extends Pessoa{
     String cpf;

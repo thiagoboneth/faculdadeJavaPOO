@@ -1,7 +1,9 @@
-import model.Cliente;
-import model.Funcionario;
-import model.Gerente;
-import model.Pessoa;
+package exercicio1;
+
+import exercicio1.model.Cliente;
+import exercicio1.model.Funcionario;
+import exercicio1.model.Gerente;
+import exercicio1.model.Pessoa;
 
 public class Main {
 

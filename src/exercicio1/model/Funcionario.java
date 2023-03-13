@@ -1,4 +1,4 @@
-package model;
+package exercicio1.model;
 
 import java.util.Objects;
 

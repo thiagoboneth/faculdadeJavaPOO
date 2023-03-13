@@ -1,4 +1,4 @@
-package model;
+package exercicio1.model;
 
 public class Gerente extends Funcionario{
     boolean caixaFechado;
